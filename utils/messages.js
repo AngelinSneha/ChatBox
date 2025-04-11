@@ -1,4 +1,5 @@
 const moment = require("moment");
+// get message format
 const messageFormat = function(username, text) {
   return {
     username,
