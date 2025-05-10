@@ -1,5 +1,5 @@
 const users = [];
-
+@TODO check is valid
 function userJoin(id, username, room) {
   const user = {id, username, room}
   users.push(user);
